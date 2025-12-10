@@ -4,7 +4,16 @@ icon: lucide/rocket
 
 # Peptide Guide for the Philippines
 
-Welcome to your trusted resource for peptide education and safety. This guide is designed specifically for Filipino users seeking reliable information about peptides, their uses, and best practices for harm reduction.
+Welcome to your trusted resource for peptide education and safety. This **free guide** is designed specifically for Filipino users seeking reliable information about peptides, their uses, and best practices for harm reduction.
+
+<!-- prettier-ignore -->
+!!! info "Independent and Unbiased"
+
+    This guide is **not affiliated with any vendor or supplier**. We are completely neutral and independent.
+
+    We will never push any particular vendor on you. Our goal is to educate you so you can make informed decisions based on what's best for your health and safety, not on what benefits any company.
+
+    Trust the information, not the sales pitch.
 
 ---
 
@@ -65,7 +74,7 @@ Welcome to your trusted resource for peptide education and safety. This guide is
     <div style="font-size: 2rem; margin-bottom: 0.5rem;">📈</div>
     Weight Loss with Peptides
   </a>
-  <a href="/supply-index" class="cta-card supply">
+  <a href="/supply" class="cta-card supply">
     <div style="font-size: 2rem; margin-bottom: 0.5rem;">📦</div>
     Supply Index
   </a>

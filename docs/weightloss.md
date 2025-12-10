@@ -60,7 +60,7 @@ Tirzepatide is usually the “sweet spot” for most Filipinos: strong results w
 - Sold legally as “research peptides” (labeled Not for Human Consumption)
 - No prescription needed to buy the research version
 - Branded versions (Ozempic, Mounjaro, etc.) are very expensive
-- Always demand recent COA with the shop’s name on it
+- [Always demand recent COA with the shop’s name on it](coa.md "Why is COA so important?")
 
 ---
 

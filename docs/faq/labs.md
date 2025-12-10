@@ -2,22 +2,29 @@
 icon: lucide/microscope
 ---
 
-# Trusted Testing Labs
+# Trusted Testing Laboratori
 
 <!-- prettier-ignore -->
 !!! warning "Golden rule in the Philippines"
-    The COA **must have your supplier’s shop name** on it (not just the Chinese factory name).
-
-    If the seller only shows “manufacturer COA” or a generic report without their own name → walk away.
+    The COA **must have your supplier’s shop name** on it (not just the Chinese factory name).  
+    If the seller only shows “manufacturer COA” or a generic report without their own name → walk away.  
     Real reputable Philippine suppliers always pay to test their own batches and proudly show the report with their name on it.
 
-This is the #1 way to know you are getting legitimate product. [Learn more about why COA is so important →](../coa.md)
+This is the #1 way to know you are getting legitimate product in 2025.
 
 ---
 
+<!-- prettier-ignore -->
+!!! tip "Top 5 most used by Filipinos right now"
+    1. Janoshik  
+    2. MZ Biolabs  
+    3. TrustPointe  
+    4. Colmaric Analyticals  
+    5. Chromate
+
 | Laboratory                    | Website / Contact                                                      | Country        |
 | ----------------------------- | ---------------------------------------------------------------------- | -------------- |
-| Janoshik Analytical :star:    | [janoshik.com](https://janoshik.com)                                   | Czech Republic |
+| Janoshik Analytical           | [janoshik.com](https://janoshik.com)                                   | Czech Republic |
 | TrustPointe Analytics         | [trustpointeanalytics.com](https://trustpointeanalytics.com)           | USA            |
 | MZ Biolabs                    | [mzbiolabs.com](https://www.mzbiolabs.com)                             | USA            |
 | Chromate                      | [chromate.org](https://chromate.org)                                   | USA            |
@@ -47,10 +54,7 @@ This is the #1 way to know you are getting legitimate product. [Learn more about
 ---
 
 !!! success "You now know exactly what to ask for"
-“Can you send the latest COA with your shop name on it?”
-
-If they can → green flag.
-
-If they can’t or make excuses → red flag.
+“Can you send the latest COA with your shop name on it?”  
+If they can → green flag. If they can’t or make excuses → red flag.
 
 Stay safe and keep demanding real third-party testing!

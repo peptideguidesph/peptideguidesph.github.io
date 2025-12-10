@@ -55,7 +55,7 @@ Start with well-researched ones. Here's a quick overview:
 | GHK-Cu      | Skin, hair, anti-aging       | Extremely Low              | 1–2 mg/day (topical/subQ) |
 | Tirzepatide | Weight loss, blood sugar     | Moderate (GI upset common) | 2.5 mg/week               |
 
-Source your supply from informative vendors with third-party testing.
+Read more about peptides in the **[Peptides section](../peptides)** →
 
 ---
 
@@ -66,7 +66,7 @@ Run through this before dosing:
 
 - [ ] Doctor consulted and blood work done
 - [ ] Peptide selected based on research/anecdotes (avoid unknowns)
-- [ ] Supplier provides COA from a reputable lab, and named after them
+- [ ] [Supplier provides COA from a reputable lab, and named after them](../coa.md "Why is COA so important?")
 - [ ] Dose calculated correctly (use a peptide dosing app)
 - [ ] Emergency supplies ready: Antihistamines for reactions, anti-nausea meds
 - [ ] Follow-up blood work scheduled (6–12 weeks in)
@@ -79,7 +79,7 @@ Run through this before dosing:
 
 - Research peptides are legal to buy if cleared as "not for human consumption."
 - Philippine FDA hasn't approved most for personal/therapeutic use → it's at your own risk.
-- Stick to trusted sources with COAs, see our tutorial on **[choosing your ideal supplier](../beginner/supplier-guide/)**.
+- Stick to trusted sources with [COAs](../coa.md "Why is COA so important?"), see our tutorial on **[choosing your ideal supplier](../beginner/supplier-guide/)**.
 - No prescription needed for research chems, but medical oversight is wise.
 
 ---

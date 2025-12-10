@@ -4,7 +4,7 @@ icon: lucide/store
 
 # Choosing Suppliers
 
-[**Supply Index**](../supply-index){ .md-button .md-button--primary }
+[**Supply Index**](../supply){ .md-button .md-button--primary }
 
 <!-- prettier-ignore -->
 !!! warning "Choose your source wisely."
@@ -13,7 +13,9 @@ icon: lucide/store
 
 ---
 
-## Big Red Flags – Run Away
+## Supplier Checklist: Red vs. Green Flags
+
+### Red Flags – Run Away
 
 !!! danger "Avoid these suppliers"
 
@@ -28,18 +30,16 @@ icon: lucide/store
 
 [Learn why COA is important → ](../coa.md)
 
----
-
-## Green Flags – These Are the Keepers
+### Green Flags – These Are the Keepers
 
 !!! success "Signs of a trustworthy supplier"
 
-- Provides recent **COA with their shop name** on it (dated within the last 12 months)
+- Provides recent [**COA with their shop name**](../coa.md "Why is COA so important?") on it (dated within the last 12 months)
 - Purity on HPLC report is **≥99 %**
 - Answers technical questions quickly and correctly (you can double-check on Google)
 - Transparent about origin
 
-[Check the Supply Index →](../supply-index)
+[Check the Supply Index →](../supply)
 
 ---
 
@@ -47,7 +47,7 @@ icon: lucide/store
 
 !!! tip "Do this every single time"
 
-- [ ] Asked for COA with their shop name and recent date → received it instantly
+- [ ] Asked for [COA](../coa.md "Why is COA so important?") with their shop name and recent date → received it instantly
 - [ ] Asked one technical question (e.g. “What temperature should I store Tirzepatide?”) → correct answer
 - [ ] Took screenshots of the chat and the COA
 - [ ] Checked the vial when it arrived

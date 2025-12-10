@@ -34,7 +34,7 @@ site_url = "https://peptideguidesph.github.io/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2025 PeptideGuidesPH By using this site, you are agreeing to our <a href="/terms">Terms</a>.
+Copyright &copy; 2025 PeptideGuidesPH | By using this site, you are agreeing to our <a href="/terms">Terms</a>.
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -45,25 +45,36 @@ Copyright &copy; 2025 PeptideGuidesPH By using this site, you are agreeing to ou
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    {"Home" = "index.md"},
-    {"Beginner" = [
+    { "Home" = "index.md" },
+    { "Beginner" = [
         "beginner/understanding-peptides.md",
         "beginner/can-i-take-peptides.md",
         "beginner/how-to-use.md",
         "beginner/supplier-guide.md",
         "coa.md",
-    ]},
-    {"Weight Loss" = [
+    ] },
+    { "Weight Loss" = [
         "weightloss.md",
         "weightloss/tirzepatide.md",
         "weightloss/semaglutide.md",
-        "weightloss/retatrutide.md"
-    ]},
-    {"Resources" = [
+        "weightloss/retatrutide.md",
+    ] },
+    { "Resources" = [
+        "supply.md",
         "resources/checklist.md",
         "resources/trusted-labs.md",
-    ]},
-    {"Peptides" = [
+
+    ] },
+    { "FAQ" = [
+        "faq/index.md",
+        "faq/ozempicvsgeneric.md",
+        "faq/lyophilizedpeps.md",
+        "faq/reconnedpeps.md",
+        "faq/bacvssterile.md",
+        "faq/besttime.md",
+        "faq/notlosingweight.md",
+    ] },
+    { "Peptides" = [
         "peptides.md",
         "peptides/tirzepatide.md",
         "peptides/retatrutide.md",
@@ -95,7 +106,7 @@ nav = [
         "peptides/snap-8.md",
         "peptides/tesamorelin.md",
         "peptides/tb-500.md",
-    ]}
+    ] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -322,8 +333,8 @@ toggle.name = "Switch to light mode"
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
-#[project.theme.font]
-#text = "Inter"
+[project.theme.font]
+text = "Nunito"
 #code = "Jetbrains Mono"
 
 # ----------------------------------------------------------------------------
@@ -351,5 +362,3 @@ repo = "lucide/test-tube-diagonal"
 [[project.extra.social]]
 icon = "fontawesome/brands/reddit"
 link = "https://reddit.com/r/PeptideGuidesPH"
-
-

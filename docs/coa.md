@@ -122,24 +122,38 @@ If you still push through, please accept the possible risks.
 - What arrives at your local seller may not match what the manufacturer's COA claims
 - Without local testing, you have no way to verify the contents of the white powder in your vial
 
-![COA Example 2](images/coa-2.jpg)
+![COA Example 2](images/Coa-2.jpg)
 
 ---
 
-![COA Example 3](images/coa-3.jpg)
+![COA Example 3](images/Coa-3.jpg)
 
 ---
 
-![COA Example 4](images/coa-4.jpg)
+![COA Example 4](images/Coa-4.jpg)
 
 ---
 
-![COA Example 5](images/coa-5.jpg)
+![COA Example 5](images/Coa-5.jpg)
 
 ---
 
-![COA Example 6](images/coa-6.jpg)
+![COA Example 6](images/Coa-6.jpg)
 
 ---
 
-![COA Example 7](images/coa-7.jpg)
+![COA Example 7](images/Coa-7.jpg)
+
+---
+
+## At the End of the Day, It's Your Choice
+
+We get it. You will always hear stories online saying their supplier doesn't have a COA but their product works better. Or they say the tested stuff is actually weaker.
+
+We understand why people feel this way. We are just here to explain and recommend.
+
+But here is the truth: if you don't test, you don't know what you are putting in your body. You might get lucky and get the real thing. Or you might get fake stuff or something dangerous. You won't know until something bad happens.
+
+COA doesn't guarantee everything is perfect. But it gives you proof. It gives you peace of mind. It gives you something to go back to if something goes wrong.
+
+The choice is yours. But choose wisely. Your health is more important than saving a few hundred pesos.

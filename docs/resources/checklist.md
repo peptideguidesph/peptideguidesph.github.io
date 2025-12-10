@@ -13,7 +13,7 @@ icon: lucide/check-square
 - [ ] Doctor consulted (even just a GP or endocrinologist)
 - [ ] Baseline blood work done (CBC, glucose, HbA1c, lipids, TSH, ALT/AST)
 - [ ] Learned how to [choose a supplier](../beginner/supplier-guide)
-- [ ] Asked for recent COA with the shop’s name on it
+- [ ] Asked for recent [COA](../coa.md "Why is COA so important?") with the shop’s name on it
 - [ ] Screenshot of chat + COA saved
 
 ### When the Package Arrives
