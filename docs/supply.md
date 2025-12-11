@@ -4,7 +4,7 @@ icon: lucide/store
 
 # Supply Index
 
-This Supply Index is built by the community. Here's how suppliers get listed:
+This Supply Index is built by the community.
 
 ![Supply Process](images/Supply-1.png)
 
@@ -22,13 +22,15 @@ This Supply Index is built by the community. Here's how suppliers get listed:
 
 ## Updated List
 
+[![Supplier List](images/Supply-2.jpg)](#)
+
 Have any information to add? [Message us → ](https://www.reddit.com/message/compose?to=r/PeptideGuidesPH)
 
 ---
 
-## Why are peptide prices so different?
+## Why are prices so different?
 
-Prices can vary by 2x or even 3x for the same peptide. Here is why:
+Prices can vary by 2x or even 3x for the same product. Here is why:
 
 - :lucide-percent: **Mark-up differences**: Some sellers add more profit.
 - :lucide-headphones: **Customer service**: Better support, faster shipping, and better packaging costs money. You pay for convenience and peace of mind.

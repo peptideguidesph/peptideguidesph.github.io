@@ -44,7 +44,7 @@ The COA presented should have:
     The purity should be more than 99%.
 
 _For example, you are in the USA and you want to order from Royal Peptides_
-![COA Example 1](images/coa-1.jpg)
+![COA Example 1](images/Coa-1.jpg)
 
 !!! quote "THESE ARE ALL THE BARE MINIMUM."
 
@@ -86,7 +86,7 @@ If they say the following:
 
     You cannot rely on Manufacturer COA alone. Why can't the seller do the effort of testing so they can secure the safety of their customers?
 
-??? failure "Third-party testing is too expensive"
+??? failure "Third-party testing is too expensive, we don't have enough profit"
 
     This should not be a valid excuse.
 
@@ -146,6 +146,10 @@ If you still push through, please accept the possible risks.
 
 ---
 
+![COA Example 7](images/Coa-8.jpg)
+
+---
+
 ## At the End of the Day, It's Your Choice
 
 We get it. You will always hear stories online saying their supplier doesn't have a COA but their product works better. Or they say the tested stuff is actually weaker.
@@ -156,4 +160,4 @@ But here is the truth: if you don't test, you don't know what you are putting in
 
 COA doesn't guarantee everything is perfect. But it gives you proof. It gives you peace of mind. It gives you something to go back to if something goes wrong.
 
-The choice is yours. But choose wisely. Your health is more important than saving a few hundred pesos.
+**The choice is yours. But choose wisely. Your health is more important than saving a few hundred pesos.**
