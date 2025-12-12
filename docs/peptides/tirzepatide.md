@@ -1,5 +1,6 @@
 ---
 title: Tirzepatide⭐
+icon: lucide/droplets
 ---
 
 # Tirzepatide

@@ -1,3 +1,7 @@
+---
+icon: lucide/bed
+---
+
 # DSIP
 
 **Tags:** DSIP, Sleep, Neuromodulator

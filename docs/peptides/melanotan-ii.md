@@ -1,3 +1,7 @@
+---
+icon: lucide/flame
+---
+
 # Melanotan II
 
 **Tags:** Melanotan II, Tanning, Sexual Function, Melanocortin
@@ -126,8 +130,6 @@ Binds to melanocortin receptors (MC1R, MC3R, MC4R, MC5R). MC1R activation stimul
 
     Double-blind placebo-controlled study showed significant improvement in erectile function, with effects beginning within 1–2 hours of subcutaneous injection.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "Melanogenesis and UV Protection Study (1999)"
 
@@ -135,13 +137,9 @@ Binds to melanocortin receptors (MC1R, MC3R, MC4R, MC5R). MC1R activation stimul
 
     Demonstrated significant increase in eumelanin content and skin pigmentation with corresponding increase in UV protection factor.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "Female Sexual Arousal Disorder Trial (2004)"
 
     - Human (Female) | 0.025 mg/kg | Single dose | 73% reported arousal
 
     Crossover study showed significant increases in genital arousal and sexual desire within 24 hours of administration.
-
-    View Study → [Add link]

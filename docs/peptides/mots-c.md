@@ -1,3 +1,7 @@
+---
+icon: lucide/zap
+---
+
 # MOTS-c
 
 **Tags:** MOTS-c, Mitochondrial Peptide, Metabolic Health, AMPK

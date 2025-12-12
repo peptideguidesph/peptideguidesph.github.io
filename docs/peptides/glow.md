@@ -1,3 +1,7 @@
+---
+icon: lucide/sun
+---
+
 # Glow Protocol
 
 **Tags:** Glow, Combination Peptide, BPC-157, TB-500, GHK-Cu, Skin Rejuvenation
@@ -114,18 +118,12 @@ Timing note: consider each peptide's half-life and optimal schedule when plannin
 
     Research on BPC-157's role in tissue repair and anti-inflammatory effects.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "GHK-Cu Anti-Aging Research (2023)"
 
     Examination of GHK-Cu's anti-aging and collagen synthesis properties.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "TB-500 Angiogenesis Studies (2024)"
 
     Investigation of TB-500's role in tissue remodeling and angiogenesis.
-
-    View Study → [Add link]

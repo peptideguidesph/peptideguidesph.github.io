@@ -1,3 +1,7 @@
+---
+icon: lucide/scale
+---
+
 # Cagrilintide
 
 **Tags:** Weight Loss, Amylin Analogue, CagriSema, Type 2 Diabetes

@@ -1,3 +1,7 @@
+---
+icon: lucide/sparkle
+---
+
 # SNAP-8
 
 **Tags:** Anti-Aging, Topical, Wrinkle Reduction

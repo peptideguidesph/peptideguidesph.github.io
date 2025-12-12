@@ -1,3 +1,7 @@
+---
+icon: lucide/timer
+---
+
 # Epitalon (Epithalon, Epithalamin)
 
 **Tags:** Epitalon, Epithalon, Telomerase, Anti-aging

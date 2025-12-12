@@ -7,7 +7,7 @@ icon: lucide/rocket
 Welcome to your trusted resource for peptide education and safety. This **free guide** is designed specifically for Filipino users seeking reliable information about peptides, their uses, and best practices for harm reduction.
 
 <!-- prettier-ignore -->
-!!! info "Independent and Unbiased"
+??? info "Independent and Unbiased"
 
     This guide is **not affiliated with any vendor or supplier**. We are completely neutral and independent.
 

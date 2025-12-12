@@ -1,3 +1,7 @@
+---
+icon: lucide/moon
+---
+
 # CJC/IPA Protocol
 
 **Tags:** CJC-1295, Ipamorelin, Protocol, Growth Hormone

@@ -1,3 +1,7 @@
+---
+icon: lucide/gauge
+---
+
 # Tesamorelin
 
 **Tags:** GHRH, Fat Loss, FDA-Approved

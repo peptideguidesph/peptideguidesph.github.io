@@ -1,3 +1,7 @@
+---
+icon: lucide/battery-charging
+---
+
 # NAD+
 
 **Tags:** NAD+, Energy, Mitochondrial, Anti-aging, Coenzyme
@@ -126,18 +130,12 @@ Direct delivery to the bloodstream ensures maximum cellular availability for ene
 
     Research documenting the age-related decline in NAD+ levels and its implications for cellular metabolism and longevity.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "NAD+ IV Therapy Safety Study (2019)"
 
     Clinical evaluation of NAD+ intravenous therapy safety profile and bioavailability in human subjects.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "Nicotinamide Riboside Bioavailability (2016)"
 
     Study examining bioavailability and metabolic effects of nicotinamide riboside as an NAD+ precursor.
-
-    View Study → [Add link]

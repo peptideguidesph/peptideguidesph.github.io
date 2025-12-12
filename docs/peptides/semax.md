@@ -1,3 +1,7 @@
+---
+icon: lucide/lightbulb
+---
+
 # Semax
 
 **Tags:** Nootropic, Neuroprotective, Cognitive Enhancement

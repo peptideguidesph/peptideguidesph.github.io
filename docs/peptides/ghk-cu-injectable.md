@@ -1,3 +1,7 @@
+---
+icon: lucide/sparkles
+---
+
 # GHK-Cu (Injectable)
 
 **Tags:** GHK-Cu, Copper Peptide, Skin Regeneration, Injectable

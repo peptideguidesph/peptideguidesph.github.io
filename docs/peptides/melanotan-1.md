@@ -1,3 +1,7 @@
+---
+icon: lucide/circle-dot
+---
+
 # Melanotan I
 
 **Tags:** Melanotan I, Afamelanotide, Tanning, Photoprotection

@@ -1,3 +1,7 @@
+---
+icon: lucide/droplet
+---
+
 # GHK-Cu (Topical)
 
 **Tags:** GHK-Cu, Copper Peptide, Topical, Skin Regeneration

@@ -1,3 +1,7 @@
+---
+icon: lucide/wind
+---
+
 # Ipamorelin
 
 **Tags:** Ipamorelin, Growth Hormone, GHRP, Body Composition
@@ -129,18 +133,12 @@ _Contains non-natural amino acids (Aib, D-2-Nal, D-Phe) and C-terminal amidation
 
     Research on Ipamorelin's effects on natural GH pulse frequency and amplitude.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "Body Composition Clinical Trial (2020)"
 
     Clinical trial examining body composition changes with Ipamorelin supplementation.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "Sleep Quality Research (2021)"
 
     Study on Ipamorelin's effects on sleep quality and recovery optimization.
-
-    View Study → [Add link]

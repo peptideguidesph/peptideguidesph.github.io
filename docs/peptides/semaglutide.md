@@ -1,5 +1,6 @@
 ---
 title: Semaglutide⭐
+icon: lucide/trending-down
 ---
 
 # Semaglutide

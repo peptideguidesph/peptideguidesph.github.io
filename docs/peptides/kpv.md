@@ -1,3 +1,7 @@
+---
+icon: lucide/shield
+---
+
 # KPV
 
 **Tags:** KPV, Anti-inflammatory, Immune Modulation, Bowel Health
@@ -121,8 +125,6 @@ Enters cells and inhibits inflammatory pathways at the nuclear level, particular
 
     Research demonstrating KPV's efficacy in inflammatory bowel disease animal models.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "Anti-Inflammatory Mechanisms of KPV (2020)"
 
@@ -130,13 +132,9 @@ Enters cells and inhibits inflammatory pathways at the nuclear level, particular
 
     Investigation of KPV's molecular mechanisms for inhibiting inflammatory signaling pathways.
 
-    View Study → [Add link]
-
 <!-- prettier-ignore -->
 !!! quote "KPV for Psoriasis and Dermatitis (2021)"
 
     - Human cells + Animal model | Topical application | 4 weeks
 
     Study examining KPV's effects on skin inflammatory conditions including psoriasis and dermatitis.
-
-    View Study → [Add link]

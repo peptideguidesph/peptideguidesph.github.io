@@ -1,3 +1,7 @@
+---
+icon: lucide/pyramid
+---
+
 # 5-Amino-1MQ
 
 **Tags:** Metabolism, Weight Loss, Longevity, NAD+ Boost, Mitochondria

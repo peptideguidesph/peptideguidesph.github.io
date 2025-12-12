@@ -1,3 +1,7 @@
+---
+icon: lucide/activity
+---
+
 # CJC-1295 (without DAC)
 
 **Tags:** GHRH analogue, Mod-GRF, Growth Hormone

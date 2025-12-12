@@ -1,4 +1,8 @@
-﻿# Selank
+---
+icon: lucide/brain-circuit
+---
+
+# Selank
 
 **Tags:** Anxiety, Nootropic, Cognitive Enhancement
 
@@ -66,13 +70,25 @@ _Synthetic analog of tuftsin with anxiolytic properties._
 
 ## Interactions
 
-## Interactions
+<!-- prettier-ignore -->
+!!! info "Compatible / Synergistic"
 
-!!! info "Compatible" - Semax — Synergistic - BPC-157 — Compatible - Noopept — Compatible - Phenylpiracetam — Compatible - Modafinil — Compatible
+    - Semax — Synergistic
+    - BPC-157 — Compatible
+    - Noopept — Compatible
+    - Phenylpiracetam — Compatible
+    - Modafinil — Compatible
 
-!!! warning "Monitor" - Benzodiazepines — Use Caution - SSRI Antidepressants — Monitor Combination
+<!-- prettier-ignore -->
+!!! warning "Monitor"
 
-!!! danger "Avoid" - Alcohol — Avoid Combination
+    - Benzodiazepines — Use caution; may have additive effects
+    - SSRI Antidepressants — Monitor combination; may potentiate effects
+
+<!-- prettier-ignore -->
+!!! danger "Avoid"
+
+    - Alcohol — Avoid combination; may reduce efficacy and increase sedation
 
 ## How to Reconstitute / Use (Nasal spray guidance)
 
@@ -89,13 +105,20 @@ _Synthetic analog of tuftsin with anxiolytic properties._
 
 ## Quality Indicators
 
-!!! success - Clear, colorless nasal spray with no particles, cloudiness, or discoloration - Proper concentration labeling (typically 300mcg per spray) with batch testing and expiration dates - Appropriate packaging and storage; lyophilized powder can ship at room temperature; refrigerate upon arrival for long-term storage - Functioning spray mechanism; pump should produce fine, consistent mist without clogging
+<!-- prettier-ignore -->
+!!! success "Positive Signs"
 
-!!! danger - Cloudy, discolored, or particles present - Strong odor or burning sensation - Room temperature shipping reduces potency
+    - Clear, colorless nasal spray with no particles, cloudiness, or discoloration
+    - Proper concentration labeling (typically 300mcg per spray) with batch testing and expiration dates
+    - Appropriate packaging and storage; lyophilized powder can ship at room temperature; refrigerate upon arrival for long-term storage
+    - Functioning spray mechanism; pump should produce fine, consistent mist without clogging
 
-!!! success - Clear, colorless nasal spray with no particles, cloudiness, or discoloration - Proper concentration labeling (typically 300mcg per spray) with batch testing and expiration dates - Appropriate packaging and storage; lyophilized powder can ship at room temperature; refrigerate upon arrival for long-term storage - Functioning spray mechanism; pump should produce fine, consistent mist without clogging
+<!-- prettier-ignore -->
+!!! danger "Warning Signs"
 
-!!! danger - Cloudy, discolored, or particles present - Strong odor or burning sensation - Room temperature shipping reduces potency
+    - Cloudy, discolored, or particles present
+    - Strong odor or burning sensation
+    - Room temperature shipping reduces potency
 
 ## What to Expect
 
@@ -119,14 +142,17 @@ _Synthetic analog of tuftsin with anxiolytic properties._
 
 ## References
 
-!!! quote - Rat frontal cortex | 300 μg/kg | Real-time PCR analysis
+<!-- prettier-ignore -->
+!!! quote "GABAergic Neurotransmission Gene Expression and Anxiolytic Effects of Selank (2016)"
 
-    GABAergic Neurotransmission Gene Expression and Anxiolytic Effects of Selank (2016)
+    Rat frontal cortex | 300 μg/kg | Real-time PCR analysis
 
-!!! quote - Human subjects | GAD and neurasthenia | Multi-week treatment
+<!-- prettier-ignore -->
+!!! quote "Generalized Anxiety Disorder Clinical Trial (2008)"
 
-    Generalized Anxiety Disorder Clinical Trial (2008)
+    Human subjects | GAD and neurasthenia | Multi-week treatment
 
-!!! quote - Rat hippocampus | 250-500 μg/kg | 24-hour measurement
+<!-- prettier-ignore -->
+!!! quote "BDNF Expression Enhancement Study (2010)"
 
-    BDNF Expression Enhancement Study (2010)
+    Rat hippocampus | 250-500 μg/kg | 24-hour measurement

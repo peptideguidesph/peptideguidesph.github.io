@@ -72,11 +72,11 @@ Click any card for the full guide.
   GHK-Cu + BPC-157 + TB-500 skin stack  
   [Read guide →](peptides/glow.md)
 
-- :lucide-moon:{ .lg } **Ipamorelin**  
+- :lucide-wind:{ .lg } **Ipamorelin**  
   Clean GH secretagogue → deep sleep + recovery  
   [Read guide →](peptides/ipamorelin.md)
 
-- :lucide-sparkles:{ .lg } **KLOW Protocol**  
+- :lucide-wand-sparkles:{ .lg } **KLOW Protocol**  
   Ultimate skin regeneration stack  
   [Read guide →](peptides/klow.md)
 
@@ -88,11 +88,11 @@ Click any card for the full guide.
   Potent anti-inflammatory for gut and skin  
   [Read guide →](peptides/kpv.md)
 
-- :lucide-weight:{ .lg } **Mazdutide**  
-  Dual GLP-1 + Glucagon → China’s new contender  
+- :lucide-target:{ .lg } **Mazdutide**  
+  Dual GLP-1 + Glucagon → China's new contender  
   [Read guide →](peptides/mazdutide.md)
 
-- :lucide-sun:{ .lg } **Melanotan I**  
+- :lucide-circle-dot:{ .lg } **Melanotan I**  
   Safe, gradual tanning without UV damage  
   [Read guide →](peptides/melanotan-1.md)
 
@@ -110,9 +110,9 @@ Click any card for the full guide.
 
 - :lucide-brain-circuit:{ .lg } **Selank**  
   Anxiety relief without sedation  
-  [Read guide →](peptides/selank.md)
+  [Read guide →](peptides/selank-nasal.md)
 
-- :lucide-brain:{ .lg } \*\*Semax  
+- :lucide-lightbulb:{ .lg } **Semax**  
   Nootropic & neuroprotection peptide  
   [Read guide →](peptides/semax.md)
 
@@ -120,11 +120,15 @@ Click any card for the full guide.
   Topical anti-wrinkle peptide (Botox in a bottle)  
   [Read guide →](peptides/snap-8.md)
 
-- :lucide-scale:{ .lg } **Tesamorelin**  
+- :lucide-zap-off:{ .lg } **SS-31**  
+  Mitochondrial-targeted peptide for energy & cardioprotection  
+  [Read guide →](peptides/ss-31.md)
+
+- :lucide-gauge:{ .lg } **Tesamorelin**  
   FDA-approved visceral fat reducer  
   [Read guide →](peptides/tesamorelin.md)
 
-- :lucide-activity:{ .lg } **TB-500**  
+- :lucide-dna:{ .lg } **TB-500**  
   Systemic healing & hair regrowth reports  
   [Read guide →](peptides/tb-500.md)
 

@@ -1,3 +1,7 @@
+---
+icon: lucide/wand-sparkles
+---
+
 # KLOW Protocol
 
 **Tags:** KLOW, Combination Peptide, GHK-Cu, TB-500, BPC-157, KPV
@@ -117,16 +121,12 @@ Each peptide contributes different mechanisms: GHK‑Cu modulates gene expressio
 
     GHK-Cu has extensive research showing wound healing, anti-aging, and gene modulation effects. However, these studies used GHK-Cu alone, not in combination.
 
-    View Study → [Add links]
-
 <!-- prettier-ignore -->
 !!! quote "BPC-157 Limited Human Data (2020)"
 
     - Human pilot | 12 patients | Interstitial cystitis
 
     One small pilot study showed 10 of 12 patients achieved complete resolution of interstitial cystitis symptoms. Most BPC-157 research remains in animal models.
-
-    View Study → [Add link]
 
 <!-- prettier-ignore -->
 !!! quote "No Published Studies on KLOW Combination"

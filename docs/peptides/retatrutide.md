@@ -1,5 +1,6 @@
 ---
 title: Retatrutide⭐
+icon: lucide/rocket
 ---
 
 # Retatrutide

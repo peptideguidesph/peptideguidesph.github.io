@@ -1,3 +1,7 @@
+---
+icon: lucide/target
+---
+
 # Mazdutide
 
 **Tags:** Mazdutide, GLP-1, Glucagon, Weight Loss, Obesity
