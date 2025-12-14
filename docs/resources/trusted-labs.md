@@ -13,6 +13,18 @@ icon: lucide/microscope
 
 This is the #1 way to know you are getting legitimate product. [Learn more about why COA is so important →](../coa.md)
 
+<!-- prettier-ignore -->
+!!! danger "Beware of Fake Laboratory Websites"
+    **These laboratories listed below are verified and legitimate.** However, it is increasingly easy for anyone to create a professional-looking website. We have documented cases of local Philippine sellers creating fraudulent "laboratory" websites to appear credible.
+
+    **Always verify the legitimacy of a laboratory independently:**
+
+    - Check their physical address and contact information
+    - Cross-reference with industry directories and accreditation bodies
+    - Call them directly using publicly listed phone numbers
+    - Ask your supplier about their experience with the lab
+    - Be suspicious of newly created websites with minimal history
+
 ---
 
 | Laboratory                    | Website / Contact                                                      | Country        |
@@ -41,8 +53,14 @@ This is the #1 way to know you are getting legitimate product. [Learn more about
 | Vanguard Laboratory           | [vanguardlaboratory.com](https://vanguardlaboratory.com)               | USA            |
 | ResolveMass                   | [resolvemass.ca](https://resolvemass.ca)                               | Canada         |
 | Liquilabs                     | [liquilabs.cz](https://liquilabs.cz)                                   | Czech Republic |
-| PepTegrity                    | Telegram                                                               | Australia      |
-| Analytical Formulations Inc   | Telegram & Email                                                       | USA            |
+| MDx BioAnalytical Laboratory  | [mdxbiolabs.com](https://mdxbiolabs.com)                               | USA            |
+| Zyntro                        | [zyntrotest.com](https://zyntrotest.com)                               | USA            |
+| Veritas Analytic              | [veritasanalytic.com](https://veritasanalytic.com)                     | USA            |
+| CuriousChems                  | [curiouschems.com](https://www.curiouschems.com)                       | UK             |
+| LCMS Limited                  | [lcmslimited.com](https://lcmslimited.com)                             | USA            |
+| BTLabs                        | [btlabtesting.com](https://btlabtesting.com)                           | USA            |
+| PepTegrity                    | peptegrity@proton.me                                                   | Australia      |
+| Analytical Formulations Inc   | afi_sd@yahoo.com                                                       | USA            |
 
 ---
 
