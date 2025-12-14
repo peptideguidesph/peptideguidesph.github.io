@@ -22,9 +22,12 @@ This Supply Index is built by the community.
 
 ## Updated List
 
-[![Supplier List](images/Supply-2.jpg)](#)
+[![Supplier List](images/Supply-2.jpg)](https://cryptpad.fr/sheet/#/2/sheet/view/QcepSEHMkAdw10-dYR3koAwtVxvgoPLCqp+RT2nIfDU/){:target="\_blank"}
 
-Have any information to add? [Message us → ](https://www.reddit.com/message/compose?to=r/PeptideGuidesPH)
+Have any information to add?
+
+- 📩 **Email: peptideguidesph@protonmail.com** - ⚡ **Fastest way to reach us**
+- [Message us → ](https://www.reddit.com/message/compose?to=r/PeptideGuidesPH)
 
 ---
 
@@ -33,7 +36,7 @@ Have any information to add? [Message us → ](https://www.reddit.com/message/co
 Prices can vary by 2x or even 3x for the same product. Here is why:
 
 - :lucide-percent: **Mark-up differences**: Some sellers add more profit.
-- :lucide-headphones: **Customer service**: Better support, faster shipping, and better packaging costs money. You pay for convenience and peace of mind.
+- :lucide-headphones: **Customer service**: Better support, faster shipping, and better packaging costs money. Make sure to inquire what guidance and support they offer. You pay for convenience and peace of mind.
 - :lucide-globe: **Location**: Sellers in Metro Manila or nearby provinces may have lower shipping costs than than sellers in other cities in the Philippines.
 
 [Read our guide on choosing a supplier](beginner/supplier-guide.md){ .md-button .md-button--primary }

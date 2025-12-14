@@ -32,6 +32,7 @@ We welcome contributions from the community!
 1. **Report Issues** - Found a mistake or have a suggestion?
 
    - 📝 Create a pull request with your changes
+   - ⚡ Send email to [peptideguidesph@protonmail.com](mailto:peptideguidesph@protonmail.com) **FASTEST**
    - 💬 Or message us on Reddit: [r/PeptideGuidesPH](https://www.reddit.com/r/PeptideGuidesPH/submit/)
 
 2. **Add Content** - Want to add a new peptide guide or update existing info?
@@ -132,6 +133,8 @@ All content on this site is free to use and share.
 ## Support
 
 Have questions? Found an error? Want to suggest something?
+
+**Mail us:** Send email to [peptideguidesph@protonmail.com](mailto:peptideguidesph@protonmail.com) **⚡ FASTEST**
 
 **Message us:** [r/PeptideGuidesPH](https://www.reddit.com/r/PeptideGuidesPH/submit/)
 

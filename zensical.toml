@@ -363,3 +363,7 @@ repo = "lucide/test-tube-diagonal"
 [[project.extra.social]]
 icon = "fontawesome/brands/reddit"
 link = "https://reddit.com/r/PeptideGuidesPH"
+
+[[project.extra.social]]
+icon = "fontawesome/solid/envelope"
+link = "mailto:peptideguidesph@protonmail.com"

@@ -144,4 +144,4 @@ Click any card for the full guide.
 
 <!-- prettier-ignore -->
 !!! tip "Missing something?"
-    Library is updated weekly → drop suggestions on [r/PeptideGuidesPH](https://www.reddit.com/r/PeptideGuidesPH/submit/)!
+    Library is updated weekly → drop suggestions through our email [peptideguidesph@protonmail.com](mailto:peptideguidesph@protonmail.com) **⚡FASTEST** or [r/PeptideGuidesPH](https://www.reddit.com/r/PeptideGuidesPH/submit/)!
