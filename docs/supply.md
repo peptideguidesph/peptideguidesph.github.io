@@ -22,7 +22,7 @@ This Supply Index is built by the community.
 
 ## Updated List
 
-[![Supplier List](images/Supply-2.jpg)](https://cryptpad.fr/sheet/#/2/sheet/view/QcepSEHMkAdw10-dYR3koAwtVxvgoPLCqp+RT2nIfDU/){:target="\_blank"}
+[![Supplier List](images/Supply-2.jpg)](https://yellow-fire-83c6.peptideguidesph.workers.dev/){:target="\_blank"}
 
 Have any information to add?
 

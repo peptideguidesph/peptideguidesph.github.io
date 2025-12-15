@@ -2,7 +2,7 @@
 icon: lucide/rocket
 ---
 
-# Peptide Guide for the Philippines
+# Peptide Guides for the Philippines
 
 Welcome to your trusted resource for peptide education and safety. This **free guide** is designed specifically for Filipino users seeking reliable information about peptides, their uses, and best practices for harm reduction.
 

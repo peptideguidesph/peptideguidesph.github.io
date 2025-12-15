@@ -1,6 +1,6 @@
 # PeptideGuidesPH
 
-Welcome to the Peptide Guide for the Philippines! This is a community resource made by Filipinos, for Filipinos.
+Welcome to the Peptide Guides for the Philippines! This is a community resource made by Filipinos, for Filipinos.
 
 ---
 
