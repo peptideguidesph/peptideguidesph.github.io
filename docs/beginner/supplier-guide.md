@@ -27,6 +27,8 @@ icon: lucide/store
 | Takes longer than 24 hours to answer simple questions                              | If they're slow now, imagine needing urgent help with side effects later.                                                                         |
 | Gives wrong or vague answers about the peptide (half-life, storage, dosing, etc.)  | They don't know what they're selling. This is dangerous.                                                                                          |
 | Never asks about your health or experience level                                   | They don't care if you're a beginner or have contraindications. Only profit matters.                                                              |
+| Doesn't explain how they store peptides or dismisses storage concerns              | Improper storage ruins peptides. If they won't tell you, they're probably keeping them on a shelf. Dead product = wasted money.                   |
+| Goes silent after you pay or is hard to reach with questions after purchase        | Support ends when the money changes hands? You're on your own if something goes wrong. That's not a business partner, that's a scam artist.       |
 
 [Learn why COA is important → ](../coa.md)
 
@@ -38,6 +40,8 @@ icon: lucide/store
 - Purity on HPLC report is **≥99 %**
 - Answers technical questions quickly and correctly (you can double-check on Google)
 - Transparent about origin
+- Clearly explains how peptides are stored (temperature-controlled, protected from light/moisture) and provides storage instructions for you
+- Remains responsive and helpful after purchase → willing to answer questions or troubleshoot issues
 
 [Check the Supply Index →](../supply)
 
