@@ -17,6 +17,15 @@ Welcome to your trusted resource for peptide education and safety. This **free g
 
 ---
 
+<div style="max-width: 600px; margin: 0.5rem auto;">
+  <a href="/supply" style="display: block; padding: 1.5rem; background: linear-gradient(135deg, #b3e5ff 0%, #b3f0ff 100%); color: #00548a; text-decoration: none; font-weight: 600; font-size: 18px; text-align: center; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 12px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
+    <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">📦</div>
+    Supplier List
+  </a>
+</div>
+
+---
+
 ## Get Started
 
 <style>
