@@ -50,6 +50,19 @@ This is the #1 way to know you are getting legitimate product in 2025.
 | Liquilabs                     | [liquilabs.cz](https://liquilabs.cz)                                   | Czech Republic |
 | PepTegrity                    | Telegram                                                               | Australia      |
 | Analytical Formulations Inc   | Telegram & Email                                                       | USA            |
+| ILS Laboratories              | [ils-lab.com](https://ils-lab.com)                                     | USA            |
+| BTLabs                        | [btlabtesting.com](https://btlabtesting.com)                           | USA            |
+| Accurate Test Lab             | [accuratetestlab.com](https://www.accuratetestlab.com)                 | USA            |
+| Testides                      | [testides.com](https://testides.com)                                   | Canada         |
+| Marfleet Analytical Services  | [marfleetanalytical.com](https://marfleetanalytical.com)               | UK             |
+| Bioviridians Analytical Lab Solutions | [bioviridians.com](https://www.bioviridians.com)                | USA            |
+| Accumark Labs                 | [accumarklabs.com](https://accumarklabs.com)                           | USA            |
+| Amino Metrics                 | [aminometrics.com](https://aminometrics.com)                           | USA            |
+| Pepper Tester                 | [peppertester.com](https://peppertester.com)                           | USA            |
+| Nexora Laboratories EU        | [nexoralaboratories.net](https://nexoralaboratories.net)               | EU             |
+| Gold Standard Analytics       | [goldstandardanalytics.com](https://www.goldstandardanalytics.com)     | USA            |
+| SteriGenix Analytical        | [sterigenixanalytical.com](https://sterigenixanalytical.com) | USA            |
+| Axiom Analytics               | [axiomanalyticslab.com](https://axiomanalyticslab.com)                | USA            |
 
 ---
 
